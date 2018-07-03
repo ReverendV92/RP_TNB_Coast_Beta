@@ -1,0 +1,15 @@
+
+lightmappedgeneric
+{
+
+	$basetexture city_8/pripyatwall_d
+	$bumpmap city_8/pripyatwall_b
+
+	$surfaceprop plaster
+	
+	$detail city_8/pripyatwall_dt
+	$detailscale 1
+	$detailblendfactor 0.9
+	$detailblendmode 1
+
+}

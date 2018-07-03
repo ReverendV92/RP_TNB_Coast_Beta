@@ -1,0 +1,10 @@
+
+lightmappedgeneric
+{
+
+	$basetexture city_8/pripyatwalldirty_d
+	$bumpmap city_8/pripyatwalldirty_b
+
+	$surfaceprop plaster
+
+}

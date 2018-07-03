@@ -1,0 +1,10 @@
+
+lightmappedgeneric
+{
+
+	$basetexture city_8/concretefloor013a_d
+	$bumpmap city_8/concretefloor013a_b
+
+	$surfaceprop concrete
+
+}

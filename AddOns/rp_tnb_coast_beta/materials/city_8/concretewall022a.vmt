@@ -1,0 +1,10 @@
+
+lightmappedgeneric
+{
+
+	$basetexture concrete/concretewall022a
+	$bumpmap city_8/pripyatwall_b
+
+	$surfaceprop concrete
+
+}
